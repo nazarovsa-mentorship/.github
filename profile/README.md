@@ -1,12 +1,8 @@
-## Hi there 👋
+💡 Привет, **меня зовут Сергей**!
+Я -  **ментор и backend разработчик с опытом более 7 лет**. Сейчас я руковожу командой разработки и преподаю программирование на C# в корпоративной школе.
 
-<!--
+На странице организации ты найдешь публичные материалы для освоения профессии dotnet backend разработчика. 
 
-**Here are some ideas to get you started:**
+# Менторство
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Если тебе нужна помощь, ознакомься с моими услугами в [notion](https://cutt.ly/MegrSFuI)
